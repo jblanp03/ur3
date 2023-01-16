@@ -1,0 +1,1 @@
+apt update && apt install curl gnupg2 lsb-release git nano apt-utils wget -y
